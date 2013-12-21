@@ -1,1 +1,1 @@
-Exercises found at Codility.com/train
+Exercises found at Codility.com/trainzz
