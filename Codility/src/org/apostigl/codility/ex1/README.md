@@ -1,4 +1,4 @@
-Exercise 1 - A small Frog
+Exercise 1 - A small frog
 -------------------------
 
 A small frog wants to get to the other side of the road.  
