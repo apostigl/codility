@@ -1,6 +1,6 @@
 Exercises found at Codility.com/train
 -------------------------------------
 
-Exercises:
+Index:
 
-1. "A small frog"
+1. "A small frog" (very easy)
