@@ -21,7 +21,7 @@ after the first jump, at position 10 + 30 = 40
 after the second jump, at position 10 + 30 + 30 = 70  
 after the third jump, at position 10 + 30 + 30 + 30 = 100  
 
-**Assume that:**
+**Assume that:**  
 X, Y and D are integers within the range [1..1,000,000,000];
 X ≤ Y.
 
