@@ -1,5 +1,13 @@
 package org.apostigl.codility.ex3;
 
+/**
+ * Second solution for Codility exercise. It takes O(n)
+ * Lesson 1 - Ex 3 (Tape-equilibrium)
+ * 
+ * @author apostigl
+ *
+ */
+
 public class Ex3_TapeEquil_Sol2{
  
 	  public int solution(int[] A) {

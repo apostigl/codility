@@ -24,7 +24,7 @@ P = 4, difference = |10 − 3| = 7
 *class Solution { public int solution(int[] A); }*  
 that, given a non-empty zero-indexed array A of N integers, returns the minimal difference that can be achieved.  
 
-For *example*, given:  
+For **example**, given:  
   A[0] = 3  
   A[1] = 1  
   A[2] = 2  
