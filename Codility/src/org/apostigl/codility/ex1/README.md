@@ -1,4 +1,4 @@
-Exercise 1 - A small frog
+Exercise 1 - Frog Jump
 -------------------------
 
 A small frog wants to get to the other side of the road.  
