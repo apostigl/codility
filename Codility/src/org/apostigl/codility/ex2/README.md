@@ -6,7 +6,7 @@ The array contains integers in the range [1..(N + 1)], which means that exactly 
 Your goal is to find that missing element.  
 
 Write a function:  
-*int solution(int A[], int N);*  
+`int solution(int A[], int N);`  
 that, given a zero-indexed array A, returns the value of the missing element.  
 
 For **example**, given array A such that:  
