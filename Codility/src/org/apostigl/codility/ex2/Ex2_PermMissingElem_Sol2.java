@@ -1,5 +1,13 @@
 package org.apostigl.codility.ex2;
 
+/**
+ * Second solution for Codility exercise.
+ * Lesson 1 - Ex 2 (Perm Missing Element)
+ * 
+ * @author apostigl
+ *
+ */
+
 public class Ex2_PermMissingElem_Sol2 {
 	 public int solution(int[] A) {
 	       

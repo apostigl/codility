@@ -1,5 +1,13 @@
 package org.apostigl.codility.ex2;
 
+/**
+ * First solution for Codility exercise.
+ * Lesson 1 - Ex 2 (Perm Missing Element)
+ * 
+ * @author apostigl
+ *
+ */
+
 public class Ex2_PermMissingElem_Sol1 {
 	    public int solution(int[] A) {
 	        int n = A.length;
@@ -20,7 +28,7 @@ public class Ex2_PermMissingElem_Sol1 {
 	                    x = A[i];
 	                    B[x-1] = 1;
 	            }
-	            //earches into array B elements B[j]=1. The first element of B different from 1 is the one missing.
+	            //searches into array B for an element B[j]=1. The first element of B different from 1 is the one missing.
 	            for(j=0;j<n+1;j++){
 	            	
 	                if(B[j]!=1)
