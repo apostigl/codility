@@ -17,6 +17,6 @@ public class Ex2_PermMissingElem_Sol2 {
 	              sum = sum + A[i];
 	          }
 	          return sum_expected - sum;
-	      }
+	     }
 	    }
 }

@@ -9,16 +9,20 @@ public class Ex2_PermMissingElem_Sol1 {
 	        
 	        int x=0;
 	        
-	        if(n==0)
-	            return 1;
+	        if(n==0){
+	        	//if N==0 the missing element is 1
+	        	return 1;
+	        }
 	        else{
-	        	//scorro l'array A e per ogni elemento x di A setto un elemento B[x-1]=1 come segnaposto.
+	        	//for every x element of A set an element B[x-1]=1 as a placeholder.
 	            for(int i=0;i<n;i++){
+	            	
 	                    x = A[i];
 	                    B[x-1] = 1;
 	            }
-	            //scorro l'array B e cerco gli elementi B[j]=1. Se un elemento è diverso da 1 esco perchè è quello mancante.
+	            //earches into array B elements B[j]=1. The first element of B different from 1 is the one missing.
 	            for(j=0;j<n+1;j++){
+	            	
 	                if(B[j]!=1)
 	                    break;
 	            }
