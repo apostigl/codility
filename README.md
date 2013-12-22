@@ -1,6 +1,5 @@
 Exercises found at Codility.com/train
 -------------------------------------
 
-Index:
-
-1. "A small frog" (very easy)
+### Lesson 1 (Time Complexity)
+1. "Frog Jump" (very easy)
