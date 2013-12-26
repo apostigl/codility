@@ -7,4 +7,5 @@ Ex. 2 - "Perm Missing Element" (easy)
 Ex. 3 - "Tape-Equilibrium" (medium)
 
 ### Lesson 2 (Counting Elements)
-Ex. 1 - "Perm-Check" (very easy)  
+Ex. 4 - "Perm-Check" (very easy)  
+Ex. 5 - "Frog-River-One" (easy)  
