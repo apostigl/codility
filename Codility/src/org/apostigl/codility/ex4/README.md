@@ -5,4 +5,4 @@ A non-empty zero-indexed array A consisting of N integers is given. A *permutati
 
 The goal is to check whether array A is a permutation.
 
-_(Details are omitted due to possible copyright infringements_)_
+_(Details are omitted due to possible copyright infringements)_

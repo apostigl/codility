@@ -6,4 +6,4 @@ The frog is currently located at position X and wants to get to a position great
 The small frog always jumps a fixed distance, D.  
 Count the minimal number of jumps that the small frog must perform to reach its target.
 
-_(Details are omitted due to possible copyright infringements_)_
+_(Details are omitted due to possible copyright infringements)_

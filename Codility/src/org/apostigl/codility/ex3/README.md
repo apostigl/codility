@@ -6,4 +6,4 @@ Any integer P, such that 0 < P < N, splits this tape into two non−empty parts:
 The difference between the two parts is the value of: |(A[0] + A[1] + ... + A[P − 1]) − (A[P] + A[P + 1] + ... + A[N − 1])|  
 In other words, it is the absolute difference between the sum of the first part and the sum of the second part.
 
-_(Details are omitted due to possible copyright infringements_)_
+_(Details are omitted due to possible copyright infringements)_

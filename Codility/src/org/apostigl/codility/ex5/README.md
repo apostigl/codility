@@ -5,4 +5,4 @@ Leaves fall from a tree onto the surface of the river. You are given a non-empty
 
 The goal is to find the earliest time when the frog can jump to the other side of the river. The frog can cross only when leaves appear at every position across the river from 1 to X.
 
-_(Details are omitted due to possible copyright infringements_)_
+_(Details are omitted due to possible copyright infringements)_
